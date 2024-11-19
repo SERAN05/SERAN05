@@ -1,4 +1,4 @@
-# 👋 Hello There!
+
 
 <p align="center">
   <img src="https://cdn.pixabay.com/animation/2023/01/10/02/01/02-01-09-475_512.gif" alt="Hello There!" />
@@ -45,14 +45,7 @@ I am passionate about leveraging data analytics and application development to c
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Microsoft](https://img.shields.io/badge/-Microsoft-black?style=flat-square&logo=microsoft)
 
-## GitHub Stats
-![Seralathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SERAN05&show_icons=true&theme=radical)
 
-## GitHub Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=SERAN05&theme=dracula)
-
-## GitHub Streak Stats
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SERAN05&theme=radical)
 
 ## Connect with Me
 

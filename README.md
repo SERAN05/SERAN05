@@ -44,3 +44,5 @@ I am passionate about leveraging data analytics and application development to c
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Microsoft](https://img.shields.io/badge/-Microsoft-black?style=flat-square&logo=microsoft)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seralathan-CA&show_icons=true&theme=radical)

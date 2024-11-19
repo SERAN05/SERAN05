@@ -6,7 +6,7 @@
 
 
 
-# 👋 Hello, I'm Seralathan C A
+# 👋 Hi, I'm Seralathan C A
 
 Aspiring Data Analyst | BE Computer Science and Engineering Student at Sri Ramakrishna Engineering College, Coimbatore
 

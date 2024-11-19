@@ -1,9 +1,9 @@
 # 👋 Hello There!
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/xUPGcgaZDBgSCjxIRE/giphy.gif](https://cdn.pixabay.com/animation/2023/01/10/02/01/02-01-09-475_512.gif)" alt="Hello There!" />
-  <img src="" alt="Hello There!" />
+  <img src="https://cdn.pixabay.com/animation/2023/01/10/02/01/02-01-09-475_512.gif" alt="Hello There!" />
 </p>
+
 
 
 # 👋 Hello, I'm Seralathan C A

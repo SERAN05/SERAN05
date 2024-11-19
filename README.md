@@ -45,4 +45,25 @@ I am passionate about leveraging data analytics and application development to c
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Microsoft](https://img.shields.io/badge/-Microsoft-black?style=flat-square&logo=microsoft)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SERAN05&show_icons=true&theme=radical)
+## GitHub Stats
+![Seralathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SERAN05&show_icons=true&theme=radical)
+
+## GitHub Contribution Graph
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=SERAN05&theme=dracula)
+
+## GitHub Streak Stats
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SERAN05&theme=radical)
+
+## Connect with Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/seralathan-c-a-0b6477297" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="caseralathan2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/seran_madara/profilecard/?igsh=dGtja2Y2aDBybXV6" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>

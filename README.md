@@ -1,3 +1,10 @@
+# 👋 Hello There!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcgaZDBgSCjxIRE/giphy.gif" alt="Hello There!" />
+</p>
+
+
 # 👋 Hello, I'm Seralathan C A
 
 Aspiring Data Analyst | BE Computer Science and Engineering Student at Sri Ramakrishna Engineering College, Coimbatore
@@ -24,8 +31,15 @@ I am passionate about leveraging data analytics and application development to c
 - Building efficient applications with React.js and JavaScript
 
 ## Coding Profiles
-- [LeetCode Profile](#)
+- [SkillRack Profile](http://www.skillrack.com/profile/445592/80361324bc20efd54dfb125a86f0087f7c5d1bf6)
 - [HackerRank Profile](#)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seralathan-CA&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SERAN05&show_icons=true&theme=radical)
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Microsoft](https://img.shields.io/badge/-Microsoft-black?style=flat-square&logo=microsoft)
